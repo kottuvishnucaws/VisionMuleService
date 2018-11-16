@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "visionmule",
+  "private_key_id": "8276561938acb75c41048624449ccae92932f39b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9sAS3NpzpuNmr\nKUc/ab59U1Ab4TjXOA5fl6mV0kjZRa0K1BiL9AqB4yQFLAJdFcGtl4zk1tlVf3K0\nGKLknK53iztojZl4yqapZAfM256w8Wec467/lj9mK/RgmZCDwh3NvYhmVRz99HQN\nxXVx0KnnfpTGmLEzUr9SPRuKkGG7HnjHxlYu34wCC/bpxy6xmBWisoJ087fzUe2Z\ntK3GL0e/BKJxEEzlfKUEYft6Dok58/iUoCz/qPqACQLXHAs3lQpKKdtfWN5uV7Wp\nkJ497+e7iZT3J02XRE9em+Yc7wMUwOhFdd3TSYN3rOYj4frPUixy4X/U46UYBoEv\nxyvlJv7PAgMBAAECggEAFXR1SWvJ772oERiy0FSw5mf9UEn3LeX56jdd8m492HrD\nCc3XlkIyILgvo3jI2P0pp5gpUtuM6ti8K+v6xgowHvaxRNrPQxRY1CFWUzDRZYjI\nhBGqAjVc/RIiVVLJP73oX778+zt2ngV/oux0o5JLGr38geyqDk4LtHeTnTvwx0Mx\nZggZ3YX4MDUqHIjl2BhlHne6nqtGgeGMuMFKiM1Nmgy1hGliJYbCQ+S1wDSyqYBY\nXlVFW77eCxW1UyYrWYHuoWql7cf+kQKfN8SeSukeMCCXFSXt2eKyKKP7VOAATti/\nikus1Q2RE8oTJHa9QbxZUOZyEKwTFb9HTFiQDF3WYQKBgQD9dpCtt/ylZiSa+TPq\noVxnNcJDHWw37TCoEHIRdQZ4BHux7cRz/zf1ZhIkS6hR8I7jGCfCh7ERmI1erwhj\n10Hecp4BbHfA19y9SafYMoz8HRKKnGJPPZeRu33Pk9RmGWAwsP+ii3Gsxh2H5rcy\n7anK4SkvWXKZnnN2IoHeNduMqQKBgQC/lgtpyLHwgMf9aj5Ri0Nl/IH4/avtzoyE\nnEb8k2GNAWQX9bFW2n62et4pe3Gm2jmS32R3DOxziAMwu33eIz6yzlybPZIcArJP\nqrgB5jNWrpnJkzYqlcstL8mF6tzG4PTKuPs/DezDPOHmFTmkBGn/K0XgYzFeql86\nFEBuja8itwKBgAKkOK/GyhhDL0B6NmNMmTTuJ38hkF4o16f4u+eYq5+WlF9vVevL\njh69mJTOQQvRkPum5csuNNc1GswQ0OqRdLtHwIPNSJY26bMDUH99T2DVQLs3FAM1\nZh37sTz3knAZ9ZmsTo24HFArpGUlL2WVen6FyDMZIIufTh6+D1Jsh0Q5AoGAE2qv\niW8PqaJDoolL+5Ozpvhqa8O50wYl86KrBxogvtuvO0ZpTLYkNXZKYcXjBNgFEb+W\nPQKQTD0ypZO68/J6fkCv3gPldPVJAQ36TCb6eQSFDYrf6Hz59IBtWictbPKLnKgW\nvpM4tajL9DeeeeMAox3NnSowbLmzoP1AcnPllg0CgYAAmtTukxV4vloZSesdz+iT\n59DZhUEtUkaDR7IE181ZaiH7abROd5rtmbAUuGkXs8FukKzmAVCeIqhEVw29mthP\nI9kx+/T0jxG3xbzKlAmnS/obF6NzwQe5J2Qr73DksJu9ygtlFO00H8SE/dPDtAgg\n4EMbTxb7jXxoveLeT8h0tg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-vision-sa@visionmule.iam.gserviceaccount.com",
+  "client_id": "102781098534443204676",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision-sa%40visionmule.iam.gserviceaccount.com"
+}
